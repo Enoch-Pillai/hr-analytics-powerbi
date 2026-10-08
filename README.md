@@ -310,6 +310,9 @@ HR-Analytics-PowerBI/
 ## Conclusion
 
 The analysis shows that employee attrition is not evenly distributed across the organization. Although the overall attrition rate is 16.92%, a large proportion of attrition is concentrated in four job roles—Laboratory Technician, Sales Executive, Research Scientist, and Sales Representative, which together account for approximately 84.36% of total attrition.
+
 The Sales Representative role stands out with the highest attrition rate at 43.10%. Overtime also shows a strong association with attrition, with employees working overtime having a 31.92% attrition rate compared with 10.79% for employees not working overtime.
+
 The analysis also shows that Research & Development has the largest active workforce, while compensation generally increases with job level. However, years of service do not show a clear relationship with salary within the same job level.
+
 Overall, the findings suggest that job role, overtime, employee satisfaction, and work-life balance are important areas for further HR investigation. These insights can help organizations focus retention efforts on high-attrition roles, review overtime practices, and improve the overall employee experience through data-driven HR decisions.
